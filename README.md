@@ -1,5 +1,6 @@
 # gigatron_emulator
 Emulator of Gigatron TTL Computer using SDL2
+
 Found this nice and small SDL2 gigatron emulator (in directory emulator - main repo is FPGA implementation here):
 https://github.com/hsnaves/gigatron
 
