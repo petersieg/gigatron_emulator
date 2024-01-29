@@ -10,6 +10,10 @@ Nice and clean coding style!
 
 Works excellent!
 
-I just implemented loading og gt1 file by dropping file on window event.
+I just implemented loading of gt1 file by dropping file on window event.
+
+Now one can simply drop a gt1 file on the emu window and it is loaded.
+Before new gt1 file can be loaded, a reset is mandatory (Press PgUp until reset)!
+
 arecibo64.gt1 is example file.
 
