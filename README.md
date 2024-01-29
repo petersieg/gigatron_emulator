@@ -3,7 +3,7 @@ Emulator of Gigatron TTL Computer using SDL2
 Found this nice and small SDL2 gigatron emulator (in directory emulator - main repo is FPGA implementation here):
 https://github.com/hsnaves/gigatron
 
-This is 99% coded by Humberto Silva Naves. MIT License - see main.c 
+This is 99% coded by Humberto Silva Naves. MIT License - see file: LICENSE and header of main.c 
 Nice and clean coding style!
 
 Works excellent!
