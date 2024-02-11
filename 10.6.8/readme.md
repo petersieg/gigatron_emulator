@@ -6,4 +6,4 @@ Mac ports libsdl2 install.
 
 Or download from here hopefully works as well. The libsdl2 need to be put into lib search path.
 
-otool -L <exe> shows found/required libs.
+otool -L 'exe' shows found/required libs.
